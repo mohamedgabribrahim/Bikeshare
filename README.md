@@ -1,2 +1,2 @@
 # Bikeshare
-Bikeshare: Data Science Udacity Project
+Bikeshare: Data Analysis Udacity Project
